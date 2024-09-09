@@ -1,0 +1,9 @@
+Soal 1.2
+1. Buatlah code sederhana menggunakan if, else if dan else(if statement).
+2. Buatkan variable untuk perbandingan if statement diatas menggunakan tipe data integer.
+3. Buatlah code untuk mengambil input dari user sebagai pembanding variable di if statement.
+4. Buatlah Printf jika suatu kondisi dalam if statement terpenuhi.
+
+deadline 11 September jam 23.00
+#have fun
+#yang buka chatgpt traktir semua yang ikut pelatihan😁
